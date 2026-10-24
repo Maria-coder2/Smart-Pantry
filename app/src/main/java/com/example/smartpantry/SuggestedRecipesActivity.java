@@ -9,7 +9,6 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.smartpantry.adapters.RecipeAdapter;
 import com.example.smartpantry.database.DatabaseHelper;
 import com.example.smartpantry.database.RecipeMatcher;
 import com.example.smartpantry.models.Recipe;
